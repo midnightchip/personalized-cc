@@ -1,0 +1,9 @@
+Package: me.midnightchips.personalized-cc
+Name: Personalized CC
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Customize your Control Center
+Maintainer: MidnightChips
+Author: MidnightChips
+Section: Tweaks
+Depends: ${ORION}, firmware (>= 12.2), ws.hbang.common (>= 1.17), com.muirey03.libmryipc
